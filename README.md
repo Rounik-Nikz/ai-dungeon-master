@@ -9,7 +9,8 @@ AI Dungeon Master is a web-based application that dynamically generates Dungeons
 
 ## Tech Stack
 - **Backend:** Node.js, Express, Axios, Hugging Face API
-- **Frontend:** React, Tailwind CSS
+- **Frontend:** React, Tailwind CSS 
+**Note:** The UI is minimal and not really designed. Feel free to customize and enhance it as needed.
 
 
 ## Setup Guide
@@ -72,6 +73,3 @@ This project is open-source under the [MIT License](https://github.com/Rounik-Ni
 - **CORS issue?** Make sure the backend allows requests from the frontend.
 
 For any issues, feel free to open an issue in the repository!
-```
-
-This should be good to go! Let me know if you need any changes. 🚀
